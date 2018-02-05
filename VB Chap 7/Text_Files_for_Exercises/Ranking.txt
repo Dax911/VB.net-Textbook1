@@ -1,0 +1,3 @@
+Education,Stanford,Vanderbilt,UCLA,Columbia,U of OR
+Engineering,MIT,Stanford,UC Berk,GA Tech,U of IL
+Law,Yale,Harvard,Stanford,Columbia,NYU

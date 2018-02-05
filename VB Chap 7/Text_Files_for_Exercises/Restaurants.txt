@@ -1,0 +1,5 @@
+McDonald's,28.7,30
+Subway,8.2,9.6
+Burger King,8.7,9.3
+Starbucks,6.6,8.8
+Wendy's,8.0,8

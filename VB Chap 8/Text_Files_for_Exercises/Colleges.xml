@@ -1,0 +1,139 @@
+<?xml version='1.0'?>
+<!-- This file contains data on the earliest U.S. colleges -->
+<COLLEGES>
+  <college>
+    <name>Harvard U.</name>
+    <state>MA</state>
+    <yearFounded>1636</yearFounded>
+  </college>
+  <college>
+    <name>William &amp; Mary</name>
+    <state>VA</state>
+    <yearFounded>1693</yearFounded>
+  </college>
+  <college>
+    <name>Yale U.</name>
+    <state>CT</state>
+    <yearFounded>1701</yearFounded>
+  </college>
+  <college>
+    <name>U. of Pennsylvania</name>
+    <state>PA</state>
+    <yearFounded>1740</yearFounded>
+  </college>
+  <college>
+    <name>Moravian College</name>
+    <state>PA</state>
+    <yearFounded>1742</yearFounded>
+  </college>
+  <college>
+    <name>U. of Delaware</name>
+    <state>DE</state>
+    <yearFounded>1743</yearFounded>
+  </college>
+  <college>
+    <name>Princeton U.</name>
+    <state>NJ</state>
+    <yearFounded>1746</yearFounded>
+  </college>
+  <college>
+    <name>Wash. and Lee U.</name>
+    <state>VA</state>
+    <yearFounded>1749</yearFounded>
+  </college>
+  <college>
+    <name>Columbia U.</name>
+    <state>NY</state>
+    <yearFounded>1754</yearFounded>
+  </college>
+  <college>
+    <name>Brown U.</name>
+    <state>RI</state>
+    <yearFounded>1764</yearFounded>
+  </college>
+  <college>
+    <name>Rutgers College</name>
+    <state>NJ</state>
+    <yearFounded>1766</yearFounded>
+  </college>
+  <college>
+    <name>Dartmouth College</name>
+    <state>NH</state>
+    <yearFounded>1769</yearFounded>
+  </college>
+  <college>
+    <name>Dickinson College</name>
+    <state>PA</state>
+    <yearFounded>1773</yearFounded>
+  </college>
+  <college>
+    <name>Hampton-Sydney</name>
+    <state>VA</state>
+    <yearFounded>1776</yearFounded>
+  </college>
+  <college>
+    <name>Wash. and Jefferson</name>
+    <state>PA</state>
+    <yearFounded>1781</yearFounded>
+  </college>
+  <college>
+    <name>Washington Col.</name>
+    <state>MD</state>
+    <yearFounded>1782</yearFounded>
+  </college>
+  <college>
+    <name>U. of Georgia</name>
+    <state>GA</state>
+    <yearFounded>1785</yearFounded>
+  </college>
+  <college>
+    <name>U. of Pittsburgh</name>
+    <state>PA</state>
+    <yearFounded>1787</yearFounded>
+  </college>
+  <college>
+    <name>Georgetown U.</name>
+    <state>DC</state>
+    <yearFounded>1789</yearFounded>
+  </college>
+  <college>
+    <name>U. of Vermont</name>
+    <state>VT</state>
+    <yearFounded>1791</yearFounded>
+  </college>
+  <college>
+    <name>Williams College</name>
+    <state>MA</state>
+    <yearFounded>1793</yearFounded>
+  </college>
+  <college>
+    <name>Bowdoin College</name>
+    <state>ME</state>
+    <yearFounded>1794</yearFounded>
+  </college>
+  <college>
+    <name>U. of Tennessee</name>
+    <state>TN</state>
+    <yearFounded>1794</yearFounded>
+  </college>
+  <college>
+    <name>U. of N. Carolina</name>
+    <state>NC</state>
+    <yearFounded>1795</yearFounded>
+  </college>
+  <college>
+    <name>Union College</name>
+    <state>NY</state>
+    <yearFounded>1795</yearFounded>
+  </college>
+  <college>
+    <name>Hartwick College</name>
+    <state>NY</state>
+    <yearFounded>1797</yearFounded>
+  </college>
+  <college>
+    <name>U. of Louisville</name>
+    <state>KY</state>
+    <yearFounded>1798</yearFounded>
+  </college>
+</COLLEGES>

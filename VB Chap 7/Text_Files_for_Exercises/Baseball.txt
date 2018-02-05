@@ -1,0 +1,217 @@
+Aaron Hill,Blue Jays,682,195
+Jimmy Rollins,Phillies,672,168
+Orlando Cabrera,Twins,656,186
+Nick Markakis,Orioles,642,188
+Ichiro Suzuki,Diamondbacks,639,225
+Robinson Cano,Yankees,637,204
+Ryan Braun,Brewers,635,203
+Miguel Tejada,Astros,635,199
+Derek Jeter,Yankees,634,212
+Brian Roberts,Orioles,632,179
+Curtis Granderson,Tigers,631,157
+Vernon Wells,Blue Jays,630,164
+Dustin Pedroia,Red Sox,626,185
+Jacoby Ellsbury,Red Sox,624,188
+Shane Victorino,Phillies,620,181
+Placido Polanco,Tigers,618,176
+Ryan Howard,Phillies,616,172
+Chone Figgins,Angels,615,183
+Rafael Furcal,Dodgers,613,165
+Jose Lopez,Diamondbacks,613,167
+Miguel Cabrera,Tigers,611,198
+Carlos Lee,Astros,610,183
+Ryan Zimmerman,Nationals,610,178
+Mark Teixeira,Yankees,609,178
+Billy Butler,Royals,608,183
+Michael Bourn,Astros,606,173
+Carl Crawford,Rays,606,185
+Matt Kemp,Dodgers,606,180
+Felipe Lopez,Brewers,604,187
+Ryan Theriot,Cubs,602,171
+Andre Ethier,Dodgers,596,162
+Jeff Francoeur,Mets,593,166
+Prince Fielder,Brewers,591,177
+Michael Cuddyer,Twins,588,162
+Victor Martinez,Red Sox,588,178
+Adam Lind,Blue Jays,587,179
+Jorge Cantu,Marlins,585,169
+Hunter Pence,Astros,585,165
+Evan Longoria,Rays,584,164
+Brandon Phillips,Reds,584,161
+Shin-Soo Choo,Indians,583,175
+Jhonny Peralta,Indians,582,148
+Alex Rios,White Sox,582,144
+Pedro Feliz,Phillies,580,154
+Mark Reynolds,Diamondbacks,578,150
+Denard Span,Twins,578,180
+Alberto Callaspo,Royals,576,173
+James Loney,Dodgers,576,162
+Hanley Ramirez,Marlins,576,197
+Marco Scutaro,Blue Jays,574,162
+Pablo Sandoval,Giants,572,189
+Chase Utley,Phillies,571,161
+Jayson Werth,Phillies,571,153
+Kurt Suzuki,Athletics,570,156
+Albert Pujols,Cardinals,568,186
+Ian Kinsler,Rangers,566,143
+Kendry Morales,Angels,566,173
+Franklin Gutierrez,Diamondbacks,565,160
+Dan Uggla,Marlins,564,137
+Bobby Abreu,Angels,563,165
+Brandon Inge,Tigers,562,129
+B.J. Upton,Rays,560,135
+Cody Ross,Marlins,559,151
+David DeJesus,Royals,558,157
+Adrian Gonzalez,Padres,552,153
+Orlando Hudson,Dodgers,551,156
+Clint Barmes,Rockies,550,135
+Johnny Damon,Yankees,550,155
+Marlon Byrd,Rangers,547,155
+Adam Dunn,Nationals,546,146
+Paul Konerko,White Sox,546,151
+Mike Cameron,Brewers,544,136
+Todd Helton,Rockies,544,177
+Chase Headley,Padres,543,142
+Troy Tulowitzki,Rockies,543,161
+Alexei Ramirez,White Sox,542,150
+David Ortiz,Red Sox,541,129
+Michael Young,Rangers,541,174
+Randy Winn,Giants,538,141
+Scott Podsednik,White Sox,537,163
+Aubrey Huff,Tigers,536,129
+Adam LaRoche,Braves,536,149
+David Wright,Mets,535,164
+Stephen Drew,Diamondbacks,533,139
+Derrek Lee,Cubs,532,163
+Skip Schumaker,Cardinals,532,161
+Jason Bay,Red Sox,531,142
+Cristian Guzman,Nationals,531,151
+Adam Kennedy,Athletics,529,153
+Kevin Kouzmanoff,Padres,529,135
+Juan Rivera,Angels,529,152
+Yunel Escobar,Braves,528,158
+Justin Upton,Diamondbacks,526,158
+Andy LaRoche,Pirates,524,135
+Mark Teahen,Royals,524,142
+Asdrubal Cabrera,Indians,523,161
+Joe Mauer,Twins,523,191
+Jason Kubel,Twins,514,154
+Jack Cust,Athletics,513,123
+Justin Morneau,Twins,508,139
+Daniel Murphy,Mets,508,135
+Nate McLouth,Braves,507,130
+Russell Martin,Dodgers,505,126
+Erick Aybar,Angels,504,157
+Chris Coghlan,Marlins,504,162
+A.J. Pierzynski,White Sox,504,151
+Jermaine Dye,White Sox,503,126
+David Eckstein,Padres,503,131
+Brad Hawpe,Rockies,501,143
+Ben Zobrist,Rays,501,149
+Jason Bartlett,Rays,500,160
+Raul Ibanez,Phillies,500,136
+Kosuke Fukudome,Cubs,499,129
+Aaron Rowand,Giants,499,130
+Nick Swisher,Yankees,498,124
+Garrett Anderson,Braves,496,133
+Bengie Molina,Giants,491,130
+Kevin Youkilis,Red Sox,491,150
+Chipper Jones,Braves,488,129
+Brian McCann,Braves,488,137
+Luis Castillo,Mets,486,147
+Ryan Ludwick,Cardinals,486,129
+Casey Blake,Dodgers,485,136
+Melky Cabrera,Yankees,485,133
+Ryan Sweeney,Athletics,484,142
+Yadier Molina,Cardinals,481,141
+Elvis Andrus,Rangers,480,128
+Alfonso Soriano,Cubs,477,115
+Kazuo Matsui,Astros,476,119
+Rockiesby Rasmus,Cardinals,474,119
+Adam Jones,Orioles,473,131
+Carlos Pena,Rays,471,107
+Yuniesky Betancourt,Royals,470,115
+Nyjer Morgan,Nationals,469,144
+Joey Votto,Reds,469,151
+Magglio Ordonez,Tigers,465,144
+Hank Blalock,Rangers,462,108
+Nelson Cruz,Rangers,462,120
+Emilio Bonifacio,Marlins,461,116
+Lance Berkman,Astros,460,126
+Edgar Renteria,Giants,460,115
+Nick Johnson,Marlins,457,133
+Freddy Sanchez,Giants,457,134
+Hideki Matsui,Yankees,456,125
+Gerardo Parra,Diamondbacks,455,132
+J.D. Drew,Red Sox,452,126
+Jason Kendall,Brewers,452,109
+Blue Jaysii Hunter,Angels,451,135
+Melvin Mora,Orioles,450,117
+Martin Prado,Braves,450,138
+Adrian Beltre,Diamondbacks,449,119
+Luke Scott,Orioles,449,116
+Mike Lowell,Red Sox,445,129
+Alex Rodriguez,Yankees,444,127
+Grady Sizemore,Indians,436,108
+Willie Bloomquist,Royals,434,115
+Mike Jacobs,Royals,434,99
+Dexter Fowler,Rockies,433,115
+Andrew McCutchen,Pirates,433,124
+Chris Young,Diamondbacks,433,92
+David Murphy,Rangers,432,116
+Russell Branyan,Diamondbacks,431,108
+Rod Barajas,Blue Jays,429,97
+Jeremy Hermida,Marlins,429,111
+Josh Willingham,Nationals,427,111
+Miguel Montero,Diamondbacks,425,125
+Ian Stewart,Rockies,425,97
+Lyle Overbay,Blue Jays,423,112
+Corey Hart,Brewers,419,109
+J.J. Hardy,Brewers,414,95
+Brendan Harris,Twins,414,108
+Gerald Laird,Tigers,413,93
+Pat Burrell,Rays,412,91
+Ty Wigginton,Orioles,410,112
+Craig Counsell,Brewers,404,115
+Willy Taveras,Reds,404,97
+Juan Uribe,Giants,398,115
+Delmon Young,Twins,395,112
+Milton Bradley,Cubs,393,101
+Tony Gwynn,Padres,393,106
+Chris Davis,Rangers,391,93
+Rajai Davis,Athletics,390,119
+Miguel Olivo,Royals,390,97
+Brendan Ryan,Cardinals,390,114
+Ken Griffey,Diamondbacks,387,83
+Cesar Izturis,Orioles,387,99
+Maicer Izturis,Angels,387,116
+Brandon Moss,Pirates,385,91
+Vladimir Guerrero,Angels,383,113
+Jorge Posada,Yankees,383,109
+Mike Napoli,Angels,382,104
+Geoff Blum,Astros,381,94
+Juan Pierre,Dodgers,380,117
+Gordon Beckham,White Sox,378,102
+Everth Cabrera,Padres,377,96
+Mark Ellis,Athletics,377,99
+Mike Fontenot,Cubs,377,89
+Dioner Navarro,Rays,376,82
+Chris Getz,White Sox,375,98
+Howard Kendrick,Angels,374,109
+John Baker,Marlins,373,101
+Rick Ankiel,Cardinals,372,86
+Matt Diaz,Braves,371,116
+Luis Valbuena,Indians,368,92
+Anderson Hernandez,Mets,366,92
+Elijah Dukes,Nationals,364,91
+Jason Varitek,Red Sox,364,76
+Ryan Church,Braves,359,98
+Nick Punto,Twins,359,82
+Nolan Reimold,Orioles,358,100
+Casey McGehee,Brewers,355,107
+Garrett Atkins,Rockies,354,80
+Matt Wieters,Orioles,354,102
+Delwyn Young,Pirates,354,94
+Manny Ramirez,Dodgers,352,102
+Ryan Spilborghs,Rockies,352,85
+Carlos Quentin,White Sox,351,83

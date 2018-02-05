@@ -1,0 +1,16 @@
+Mark Begich,Alaska,D
+Michael Bennet,Colorado,D
+Mark Udall,Colorado,D
+Ted Kaufman,Delaware,D
+Jim Risch,Idaho,R
+Roland Burris,Illinois,D
+Scott Brown,Massachusetts,R
+Al Franken,Minnesota,D
+Mike Johanns,Nebraska,R
+Jeanne Shaheen,New Hampshire,D
+Tom Udall,New Mexico,D
+Kirsten Gillibrand,New York,D
+Kay Hagan,North Carolina,D
+Jeff Markley,Oregon,D
+Arlen Specter,Pennsylvania,D
+Mark Warner,Virginia,D

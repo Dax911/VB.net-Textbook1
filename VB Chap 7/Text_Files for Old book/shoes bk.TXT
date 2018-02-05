@@ -1,0 +1,5 @@
+Adidas USA,792,8.9
+K-Swiss,392,4.4
+New Balance,1024,11.5
+Nike,3231,36.3
+Reebok,1086,12.2
